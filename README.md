@@ -2,7 +2,6 @@
 
 
 
-
 Merhaba Arkadaşlar Miui 8.2 ile karşınızdayım.
 
 
@@ -31,10 +30,6 @@ POLYTRON W8470
 
 
 
-
-
-
-
 - wipe data
 
 - wipe cache
@@ -45,15 +40,7 @@ POLYTRON W8470
 
 - install zip
 
-
-
-
-
-
-
-                                                                             
-
-
+                                                                      
 
 Changelog / Değişiklikler
 
@@ -76,12 +63,6 @@ Fix - Algorithm error during switching from the lunar calendar to the Gregorian 
 
 
 HATASI YOK 
-
-
-
-
-
-
 
 
 
@@ -131,51 +112,20 @@ MiuiV6_16GB_Hafiza_Fix_by_SmiLeToLiFe.zip
 
 
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-DOWNLOAD:
-
-
-
-[hide]
+## DOWNLOAD:
 
 
 
 MİUİ V8.2.3.0 KHDCNDL
 
 
-
-
-
 MIUI_V8.2.3.0_For_GM_Discovery.zip
-
-
-
 
 
 MİUİ V8.2.1.0 KHDCNDL 
 
 
-
-
-
 MIUI_V8.2.1.0.KHDCNDL_For_GM_Discovery.zip
-
-
 
 
 
@@ -183,44 +133,25 @@ Müzik Çalar ve Başlatıcı Fix :
 
 
 
-
-
 StableFix.zip
-
-
 
 
 
 MİUİ SEARCH FİX
 
 
-
-
-
 MIUI Search Fix.zip
-
 
 
 Günlük Duvar Kağıdı Eklentisi
 
 
-
-
-
 ota-miui-MiGalleryLockscreen_global.apk
-
-
-
 
 
 2.Simde 3g yi Açma
 
-
-
 http://forum.turkdevs.com/konu-miui-v8-2-sim-3g-cozumu.html
-
-
-
 
 
 bu konudaki fixi yükleyin.@md1
@@ -233,14 +164,4 @@ Titinium backupta hata alanlar supersu ayarlar/oluşturulan isim uzay ayrımı t
 
 
 
-Miui 8 in diğer uygulamalarını yüklemek isteyenler
 
-
-
-
-
-http://forum.turkdevs.com/konu-miui8-in-diger-uygulamalari.html
-
-
-
-[/hide]
