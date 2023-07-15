@@ -125,7 +125,7 @@ Titinium backupta hata alanlar supersu ayarlar/oluşturulan isim uzay ayrımı t
 
 
 
-##MIUI 8.1.2
+## MIUI 8.1.2
 
 
 https://yadi.sk/d/_lQZBBB83SAJZp
