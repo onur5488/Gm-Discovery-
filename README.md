@@ -125,24 +125,32 @@ Titinium backupta hata alanlar supersu ayarlar/oluşturulan isim uzay ayrımı t
 
 
 
+## HATALAR
+
+Hotspot ayarlarına girince ayarlar durdu.
+Hatası vardır.
+Çözüm: Dili ingilizce yapınca Çözülüyor.
+
+
+
+
+
 ## MIUI 8.1.2
 
 
 https://yadi.sk/d/_lQZBBB83SAJZp
 
 
-Hotspot ayarlarına girince ayarlar durdu.
-Hatası vardır.
-Çözüm: Dili ingilizce yapınca Çözülüyor.
 
-Mi Cloudda Senkronizasyon Hatası Fix
 
-Mi cloud fixini kurmadan önce Mi hesaba giriş yapın sonra fixi flashlayın.
 
 
 
 ## MI CLOUD FIX
 
+- Mi Cloudda Senkronizasyon Hatası Fix
+
+- Mi cloud fixini kurmadan önce Mi hesaba giriş yapın sonra fixi flashlayın.
 
 https://disk.yandex.com.tr/d/BlVPfbv-qKcpNw
 
