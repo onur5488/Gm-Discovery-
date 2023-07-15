@@ -1,4 +1,4 @@
-# Gm-Discovery-
+# [DEV-MIUI-V9.3]MIUI 9 8.1.2 For GM Discovery
 
 
 
@@ -78,7 +78,7 @@ OTA'DAN GELEN GÜNCELLEMEYİ KURMAYINIZ CİHAZINIZ KULLANILMAZ HALE GELEBİLİR
 
 
 
-ROMU KURDUKTAN SONRA
+## ROMU KURDUKTAN SONRA
 
 
 
@@ -108,48 +108,9 @@ BUNU YAPMAZSANIZ ANİMASYONDA KALIR CİHAZ ÇÜNKÜ OPTİMİZE EDİNCE USB HATA 
 
 
 
-MiuiV6_16GB_Hafiza_Fix_by_SmiLeToLiFe.zip
 
 
-
-## DOWNLOAD:
-
-
-
-MİUİ V8.2.3.0 KHDCNDL
-
-
-MIUI_V8.2.3.0_For_GM_Discovery.zip
-
-
-MİUİ V8.2.1.0 KHDCNDL 
-
-
-MIUI_V8.2.1.0.KHDCNDL_For_GM_Discovery.zip
-
-
-
-Müzik Çalar ve Başlatıcı Fix :
-
-
-
-StableFix.zip
-
-
-
-MİUİ SEARCH FİX
-
-
-MIUI Search Fix.zip
-
-
-Günlük Duvar Kağıdı Eklentisi
-
-
-ota-miui-MiGalleryLockscreen_global.apk
-
-
-2.Simde 3g yi Açma
+## 2.Simde 3g yi Açma
 
 http://forum.turkdevs.com/konu-miui-v8-2-sim-3g-cozumu.html
 
@@ -164,13 +125,25 @@ Titinium backupta hata alanlar supersu ayarlar/oluşturulan isim uzay ayrımı t
 
 
 
-MIUI 8.1.2
+##MIUI 8.1.2
 
 
 https://yadi.sk/d/_lQZBBB83SAJZp
 
 
+Hotspot ayarlarına girince ayarlar durdu.
+Hatası vardır.
+Çözüm: Dili ingilizce yapınca Çözülüyor.
+
+Mi Cloudda Senkronizasyon Hatası Fix
+
+Mi cloud fixini kurmadan önce Mi hesaba giriş yapın sonra fixi flashlayın.
 
 
+
+## MI CLOUD FIX
+
+
+https://disk.yandex.com.tr/d/BlVPfbv-qKcpNw
 
 
